@@ -1,5 +1,6 @@
-<iframe src="https://giphy.com/embed/7BurliewSdqFO" width="480" height="265" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sky-pretty-7BurliewSdqFO">via GIPHY</a></p>
+![giphy](https://github.com/Basabjeet-Deb/B.Sc-Data-Science/assets/154667994/e858d85a-eeac-49db-8bc0-541ec1acfa79)
 # B.Sc-Data-Science
+
 Introduction 
 # Basabjeet Deb - Bachelor of Data Science
 
