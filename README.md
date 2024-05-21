@@ -14,7 +14,7 @@ I am a passionate data enthusiast with a keen interest in programming and analyt
 
 ## Contact Information
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn:(https://www.linkedin.com/in/basabjeet-deb/)
+- Email: basabjeet.557@gmail.com
 
 Feel free to explore my projects and reach out to me for any inquiries or collaboration opportunities!
