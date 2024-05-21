@@ -1,5 +1,6 @@
-![giphy](https://github.com/Basabjeet-Deb/B.Sc-Data-Science/assets/154667994/e858d85a-eeac-49db-8bc0-541ec1acfa79)
+![giphy](https://github.com/Basabjeet-Deb/B.Sc-Data-Science/assets/154667994/efd0b66a-f0e3-4017-b190-4ca72f456f43)
 # B.Sc-Data-Science
+
 
 Introduction 
 # Basabjeet Deb - Bachelor of Data Science
