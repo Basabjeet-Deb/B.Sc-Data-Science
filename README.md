@@ -1,4 +1,4 @@
-                                      ![Guts](https://github.com/Basabjeet-Deb/B.Sc-Data-Science/assets/154667994/8a449714-efaa-4dcf-ba40-44b4718a5b45)
+  ![Guts](https://github.com/Basabjeet-Deb/B.Sc-Data-Science/assets/154667994/8a449714-efaa-4dcf-ba40-44b4718a5b45)
 # B.Sc-Data-Science
 
 Introduction 
